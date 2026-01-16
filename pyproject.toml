@@ -1,0 +1,8 @@
+[project]
+name = "aera"
+version = "0.1.0"
+description = "Agentic Evaluation & Reliability Analyzer"
+requires-python = ">=3.11"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
